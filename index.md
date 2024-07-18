@@ -20,10 +20,8 @@ contact: |
     juezhang@microsoft.com
 
 paper: |
-    https://arxiv.org/abs/2406.19251
 
 code: |
-    Coming soon
 ---
 
 <!-- 
