@@ -20,6 +20,7 @@ contact: |
     juezhang@microsoft.com
 
 paper: |
+    https://arxiv.org/abs/2407.14402
 
 code: |
 ---
@@ -98,14 +99,14 @@ He used the concept of a universal Turing machine to prove that the set of compu
 Turing's paper laid the foundation for the theory of computation and had a profound impact on the development of computer science. The Turing machine became a fundamental concept in theoretical computer science, serving as a theoretical model for studying the limits and capabilities of computation. Turing's work also influenced the development of programming languages, algorithms, and the design of modern computers. -->
 
 ## Citation
-<!-- ```
-@misc{tobedone,
-      title={AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation}, 
-      author={Jia Fu and Xiaoting Qin and Fangkai Yang and Lu Wang and Jue Zhang and Qingwei Lin and Yubo Chen and Dongmei Zhang and Saravan Rajmohan and Qi Zhang},
+```
+@misc{zhang2024visionautonomiccomputingllms,
+      title={The Vision of Autonomic Computing: Can LLMs Make It a Reality?}, 
+      author={Zhiyang Zhang and Fangkai Yang and Xiaoting Qin and Jue Zhang and Qingwei Lin and Gong Cheng and Dongmei Zhang and Saravan Rajmohan and Qi Zhang},
       year={2024},
-      eprint={2406.19251},
+      eprint={2407.14402},
       archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2406.19251}, 
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2407.14402}, 
 }
-``` -->
+```
