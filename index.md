@@ -8,7 +8,7 @@ authors: |
     Zhiyang Zhang<sup>1</sup>*, Fangkai Yang<sup>2</sup>, Xiaoting Qin<sup>2</sup>, Jue Zhang<sup>2</sup>†, Qingwei Lin<sup>2</sup>, Gong Cheng<sup>1</sup>, Dongmei Zhang<sup>2</sup>, Saravan Rajmohan<sup>2</sup>, Qi Zhang<sup>2</sup>
 
 affiliations: |
-    <sup>1</sup> Nanjing University, Nanjing, China,<br>
+    <sup>1</sup> State Key Laboratory for Novel Software Technology, Nanjing University,<br>
     <sup>2</sup> Microsoft
 
 notes: |
