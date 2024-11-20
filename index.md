@@ -9,7 +9,7 @@ authors: |
 
 affiliations: |
     <sup>1</sup> State Key Laboratory for Novel Software Technology, Nanjing University,<br>
-    <sup>2</sup> Microsoft
+    <sup>2</sup> Microsoft,<br>
     <sup>3</sup> School of Computer Science, Wuhan University, Wuhan, China
 
 notes: |
