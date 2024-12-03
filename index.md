@@ -24,6 +24,8 @@ paper: |
     https://arxiv.org/abs/2407.14402
 
 code: |
+video: |
+    https://youtu.be/IFFLb5mgzY0
 ---
 
 <!-- 
