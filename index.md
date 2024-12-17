@@ -24,8 +24,9 @@ paper: |
     https://arxiv.org/abs/2407.14402
 
 code: |
-video: |
-    https://youtu.be/IFFLb5mgzY0
+    https://github.com/microsoft/ACV/tree/main/self_managing_systems/microservice/paper_artifact_arXiv_2407_14402
+# video: |
+#     https://youtu.be/IFFLb5mgzY0
 ---
 
 <!-- 
